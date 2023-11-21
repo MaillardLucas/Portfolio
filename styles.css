@@ -1,0 +1,20 @@
+body{
+    background-color: #1a281f;
+    font-family: 'Asap', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #cfc0bd;
+}
+
+.grid-container-header{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #e4572e;
+    text-align: center;
+}
+
+.grid-container-header-title{
+    margin-right: 280px;
+}
+
+
